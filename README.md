@@ -22,5 +22,5 @@
 - Tune & Evaluate the Model performance.
 - Plot the important features after training the model.
 
-# Tool
-- Google colab
+# IDE
+- Jupyter Notebook
