@@ -21,3 +21,6 @@
 - Build the classification model.
 - Tune & Evaluate the Model performance.
 - Plot the important features after training the model.
+
+# Took
+- Google colab
